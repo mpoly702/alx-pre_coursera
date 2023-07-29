@@ -1,0 +1,3 @@
+#!bin/bash
+#name of a boy
+echo 'the boy's name is Mike'
