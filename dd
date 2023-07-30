@@ -1,0 +1,8 @@
+#!/bin/bash
+#renaming
+echo 'enter old file name'
+read file
+echo 'enter new file name'
+read new
+
+mv $file $new
